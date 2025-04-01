@@ -61,7 +61,7 @@ function App() {
           value={x}
           onChange={onXChange}
           ref={yRef}
-          className="flex-1 border-1 border-neutral-400 rounded-md px-4 py-2"
+          className="flex-1 border-1 fill-red-500 border-neutral-400 rounded-md px-4 py-2"
         />
       </div>
 
