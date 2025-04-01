@@ -1,3 +1,6 @@
+Link to the wiki of the workshop:
+https://wiki.nushackers.org/hackerschool/ci-cd-with-github-actions
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
